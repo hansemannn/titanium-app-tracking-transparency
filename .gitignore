@@ -1,0 +1,4 @@
+/dist
+/build
+.DS_Store
+/titanium-app-tracking-transparency.xcodeproj/project.xcworkspace/xcuserdata/*.xcuserdatad/UserInterfaceState.xcuserstate

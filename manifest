@@ -1,0 +1,19 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0.0
+apiversion: 2
+architectures: armv7 arm64 i386 x86_64
+mac: true
+description: titanium-app-tracking-transparency
+author: Hans Knoechel
+license: MIT
+copyright: Copyright (c) 2021-present by Hans Knoechel
+
+# these should not be edited
+name: titanium-app-tracking-transparency
+moduleid: ti.att
+guid: be79853c-5024-4fec-b471-f23ed260a14f
+platform: iphone
+minsdk: 9.2.0
