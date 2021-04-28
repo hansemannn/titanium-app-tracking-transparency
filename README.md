@@ -1,6 +1,8 @@
 # iOS 14.5+ App Tracking Transparency
 
-use the AppTrackingTransparency framework (iOS 14.5+) in the Titanium SDK.
+Use the AppTrackingTransparency framework (iOS 14.5+) in the Titanium SDK.
+
+✨ The development of this module was sponsored by [@yozef](https://github.com/yozef), thank you!
 
 ## Requirements
 
